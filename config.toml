@@ -1,0 +1,4 @@
+baseURL = "http://juanlufont.github.io/"
+languageCode = "en-us"
+title = "Blog"
+theme = "binario"
