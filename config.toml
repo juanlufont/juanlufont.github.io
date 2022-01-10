@@ -5,5 +5,5 @@ title = "notas.txt"
 theme = "binario"
 publishDir = "./public"
 
-[params]
-mainSections = ["post"]
+# [params]
+# mainSections = ["post"]
