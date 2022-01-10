@@ -1,5 +1,5 @@
 # https://4bes.nl/2021/08/29/create-a-website-with-hugo-and-github-pages/
-baseURL = "https://juanlufont.github.io/"
+baseURL = "https://juanlufont.github.io"
 languageCode = "en-us"
 title = "Blog"
 theme = "binario"
