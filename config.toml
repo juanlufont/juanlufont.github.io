@@ -4,3 +4,6 @@ languageCode = "es"
 title = "notas.txt"
 theme = "binario"
 publishDir = "./public"
+
+[params]
+mainSections = ["post"]
