@@ -2,7 +2,7 @@
 baseURL = "https://juanlufont.github.io"
 languageCode = "es"
 title = "notas.txt"
-theme = "hugo-theme-yue"
+theme = "PaperMod"
 publishDir = "./public"
 
 [params]
